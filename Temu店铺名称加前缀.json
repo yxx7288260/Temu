@@ -1,0 +1,21 @@
+[
+  {"key":"FASHRY","value":"J01-FASHRY","enabled":true,"note":"杨君胜"},
+  {"key":"Wearlio","value":"J04-Wearlio","enabled":true,"note":"杨君胜"},
+  {"key":"Stylepolis","value":"J-Stylepolis","enabled":true,"note":"杨君胜"},
+  {"key":"LORENOS","value":"Y21-LORENOS","enabled":true,"note":"杨君胜"},
+  {"key":"StyleFill","value":"Y-StyleFill","enabled":true,"note":"杨君胜"},
+
+  {"key":"goosery","value":"J02-goosery","enabled":true,"note":"蔡雪君"},
+  {"key":"FinityLine","value":"J05-FinityLine","enabled":true,"note":"蔡雪君"},
+  {"key":"TERMINT","value":"J-TERMINT","enabled":true,"note":"蔡雪君"},
+  {"key":"SweetYo","value":"Y22-SweetYo","enabled":true,"note":"蔡雪君"},
+  {"key":"beautifo","value":"Y-beautifo","enabled":true,"note":"蔡雪君"},
+
+  {"key":"Clothingin","value":"J03-Clothingin","enabled":true,"note":"杨晓雄"},
+  {"key":"Sunkizz","value":"J06-Sunkizz","enabled":true,"note":"杨晓雄"},
+  {"key":"ShirtShelf","value":"J-ShirtShelf","enabled":true,"note":"杨晓雄"},
+  {"key":"sissio","value":"Y23-sissio","enabled":true,"note":"杨晓雄"},
+  {"key":"Mixika","value":"Y-Mixika","enabled":true,"note":"杨晓雄"},
+
+  {"key":"测试CSCS测试","value":"测试CSCS测试","enabled":true,"note":"测试CSCS测试"}
+]
